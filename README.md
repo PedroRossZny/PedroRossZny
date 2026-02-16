@@ -12,7 +12,7 @@ I also share projects and professional updates on my LinkedIn: "[Pedro Ross](htt
 
 ---
 
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="Pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" 
