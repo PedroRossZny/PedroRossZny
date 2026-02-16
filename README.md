@@ -74,4 +74,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRossZny/PedroRossZny/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=249543&section=footer&reversal=false">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=323C46&section=footer&reversal=false">
