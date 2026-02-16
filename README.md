@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=362D26&section=header&reversal=false">
 
+---
+
 # 👨🏻‍💻 Pedro Ross
 
 **`Full-Stack Developer | Founder @ LaborWaze`**
