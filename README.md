@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 ##
 
-<img height="160" width="160" align="right" alt="Pedro" src="https://cdn.discordapp.com/attachments/1312068334568607764/1472752954871382107/ezgif-17bd5e4c1fbff02f.gif?ex=6993b792&is=69926612&hm=06746870a34653812ca82751d8365a95c273ea6c4761c423db25bc676d9c0691&">
+<img height="140" width="140" align="right" alt="Pedro" src="https://cdn.discordapp.com/attachments/1312068334568607764/1472752954871382107/ezgif-17bd5e4c1fbff02f.gif?ex=6993b792&is=69926612&hm=06746870a34653812ca82751d8365a95c273ea6c4761c423db25bc676d9c0691&">
 
 <br><br>
 
@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 ##
 
-<img height="160" width="160" align="right" alt="LaborWaze" src="https://cdn.discordapp.com/attachments/1339978465251819560/1354271819321966694/21_Sem_Titulo_20250325224742.png?ex=6993212a&is=6991cfaa&hm=cc88b35235f9f1880383f7abbf4c596e6f64c9cbdccb23a64a396d0328415ea9&">
+<img height="140" width="140" align="right" alt="LaborWaze" src="https://cdn.discordapp.com/attachments/1339978465251819560/1354271819321966694/21_Sem_Titulo_20250325224742.png?ex=6993212a&is=6991cfaa&hm=cc88b35235f9f1880383f7abbf4c596e6f64c9cbdccb23a64a396d0328415ea9&">
 
 <br><br>
 
