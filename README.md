@@ -13,25 +13,25 @@ I also share projects and professional updates on my LinkedIn: "[Pedro Ross](htt
 ---
 
 <div align="center">
-  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" 
+  <img alt="Pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="Pedro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img alt="Pedro-HTML" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" 
+  <img alt="Pedro-CSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" 
+  <img alt="Pedro-React" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" 
+  <img alt="Pedro-Python" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-NodeJS" height="30" width="40" 
+  <img alt="Pedro-NodeJS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" 
+  <img alt="NextJS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" 
+  <img alt="TailwindCSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" 
+  <img alt="PostgreSQL" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
